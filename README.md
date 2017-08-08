@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+8/7/2017
 
 ### Student Name:  
-(First and Last Name)
+Maxwell Chiu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The objective of this project is to build an application, seminole movie application using API, Ajax & Json.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mchiu004.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Parsing JSON data from an HTTP response message.
+2. Using Ajax methods to send HTTP requests and receive back response.
+3. Updating data without refreshing the page.
